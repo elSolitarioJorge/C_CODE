@@ -1,0 +1,5 @@
+﻿  test.c
+C:\code\2024\暑假\test_9_25\test_9_25\test.c(116,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+C:\code\2024\暑假\test_9_25\test_9_25\test.c(116,10): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 1 冲突
+C:\code\2024\暑假\test_9_25\test_9_25\test.c(111,6): warning C4101: “i”: 未引用的局部变量
+  test_9_25.vcxproj -> C:\code\2024\暑假\test_9_25\x64\Debug\test_9_25.exe
