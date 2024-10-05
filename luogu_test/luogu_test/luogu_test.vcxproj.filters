@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="P1554 梦中的统计.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P2141 [NOIP2014 普及组] 珠心算测验.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1614 爱与愁的心痛.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P2911 [USACO08OCT] Bovine Bones G.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1161 开灯.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5731 【深基5.习6】蛇形方阵.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5732 【深基5.习7】杨辉三角.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5733 【深基6.例1】自动修正.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1914 小书童——凯撒密码.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1125 [NOIP2008 提高组] 笨小猴.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1957 口算练习题.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5735 【深基7.例1】距离函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5736 【深基7.例2】质数筛.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5737 【深基7.例3】闰年展示.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5738 【深基7.例4】歌唱比赛.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5739 【深基7.例7】计算阶乘.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5461 赦免战俘.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5740 【深基7.例9】最厉害的学生.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5741 【深基7.例10】旗鼓相当的对手 - 加强版.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5742 【深基7.例11】评等级.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1304 哥德巴赫猜想.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P2415 集合求和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5743 【深基7.习8】猴子吃桃.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5744 【深基7.习9】培训.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5015 [NOIP2018 普及组] 标题统计.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5734 【深基6.例6】文字处理软件.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1308 [NOIP2011 普及组] 统计单词数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1765 手机.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P3741 小果的键盘.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1321 单词覆盖还原.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1553 数字反转（升级版.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1603 斯诺登的密码.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1200 [USACO1.1] 你的飞碟在这儿 Your Ride Is Here.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1597 语句解析.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="B2002 Hello,World!.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="B2025 输出字符菱形.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1000 超级玛丽游戏.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1001 A+B Problem.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="B2005 字符三角形.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5703 【深基2.例5】苹果采购.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5704 【深基2.例6】字母转换.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5705 【深基2.例7】数字反转.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5706 【深基2.例8】再分肥宅水.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5708 【深基2.习2】三角形面积.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5707 【深基2.例12】上学迟到.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="B2029 大象喝水.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1425 小鱼的游泳时间.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1421 小玉买文具.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P3954 [NOIP2017 普及组] 成绩.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5709 【深基2.习6】 苹果和虫子.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5710 【深基3.例2】数的性质.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5711 【深基3.例3】闰年判断.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计卓二面1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

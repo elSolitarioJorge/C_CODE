@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>17.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{ad926b1c-541b-4b8e-b388-f69b793c200d}</ProjectGuid>
+    <RootNamespace>luogutest</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="B2002 Hello,World!.c" />
+    <ClCompile Include="B2005 字符三角形.c" />
+    <ClCompile Include="B2025 输出字符菱形.c" />
+    <ClCompile Include="B2029 大象喝水.c" />
+    <ClCompile Include="P1000 超级玛丽游戏.c" />
+    <ClCompile Include="P1001 A+B Problem.c" />
+    <ClCompile Include="P1125 [NOIP2008 提高组] 笨小猴.c" />
+    <ClCompile Include="P1161 开灯.c" />
+    <ClCompile Include="P1200 [USACO1.1] 你的飞碟在这儿 Your Ride Is Here.c" />
+    <ClCompile Include="P1304 哥德巴赫猜想.c" />
+    <ClCompile Include="P1308 [NOIP2011 普及组] 统计单词数.c" />
+    <ClCompile Include="P1321 单词覆盖还原.c" />
+    <ClCompile Include="P1421 小玉买文具.c" />
+    <ClCompile Include="P1425 小鱼的游泳时间.c" />
+    <ClCompile Include="P1553 数字反转（升级版.c" />
+    <ClCompile Include="P1554 梦中的统计.c" />
+    <ClCompile Include="P1597 语句解析.c" />
+    <ClCompile Include="P1603 斯诺登的密码.c" />
+    <ClCompile Include="P1614 爱与愁的心痛.c" />
+    <ClCompile Include="P1765 手机.c" />
+    <ClCompile Include="P1914 小书童——凯撒密码.c" />
+    <ClCompile Include="P1957 口算练习题.c" />
+    <ClCompile Include="P2141 [NOIP2014 普及组] 珠心算测验.c" />
+    <ClCompile Include="P2415 集合求和.c" />
+    <ClCompile Include="P2911 [USACO08OCT] Bovine Bones G.c" />
+    <ClCompile Include="P3741 小果的键盘.c" />
+    <ClCompile Include="P3954 [NOIP2017 普及组] 成绩.c" />
+    <ClCompile Include="P5015 [NOIP2018 普及组] 标题统计.c" />
+    <ClCompile Include="P5461 赦免战俘.c" />
+    <ClCompile Include="P5703 【深基2.例5】苹果采购.c" />
+    <ClCompile Include="P5704 【深基2.例6】字母转换.c" />
+    <ClCompile Include="P5705 【深基2.例7】数字反转.c" />
+    <ClCompile Include="P5706 【深基2.例8】再分肥宅水.c" />
+    <ClCompile Include="P5707 【深基2.例12】上学迟到.c" />
+    <ClCompile Include="P5708 【深基2.习2】三角形面积.c" />
+    <ClCompile Include="P5709 【深基2.习6】 苹果和虫子.c" />
+    <ClCompile Include="P5710 【深基3.例2】数的性质.c" />
+    <ClCompile Include="P5711 【深基3.例3】闰年判断.c" />
+    <ClCompile Include="P5731 【深基5.习6】蛇形方阵.c" />
+    <ClCompile Include="P5732 【深基5.习7】杨辉三角.c" />
+    <ClCompile Include="P5733 【深基6.例1】自动修正.c" />
+    <ClCompile Include="P5734 【深基6.例6】文字处理软件.c" />
+    <ClCompile Include="P5735 【深基7.例1】距离函数.c" />
+    <ClCompile Include="P5736 【深基7.例2】质数筛.c" />
+    <ClCompile Include="P5737 【深基7.例3】闰年展示.c" />
+    <ClCompile Include="P5738 【深基7.例4】歌唱比赛.c" />
+    <ClCompile Include="P5739 【深基7.例7】计算阶乘.c" />
+    <ClCompile Include="P5740 【深基7.例9】最厉害的学生.c" />
+    <ClCompile Include="P5741 【深基7.例10】旗鼓相当的对手 - 加强版.c" />
+    <ClCompile Include="P5742 【深基7.例11】评等级.c" />
+    <ClCompile Include="P5743 【深基7.习8】猴子吃桃.c" />
+    <ClCompile Include="P5744 【深基7.习9】培训.c" />
+    <ClCompile Include="计卓二面1.c" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
