@@ -1,0 +1,4 @@
+﻿  速刷.c
+C:\code\VS2022_code\linux面试\10_16洛谷速刷\10_16洛谷速刷\速刷.c(437,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\code\VS2022_code\linux面试\10_16洛谷速刷\10_16洛谷速刷\速刷.c(432,1): warning C4715: “fun”: 不是所有的控件路径都返回值
+  10_16洛谷速刷.vcxproj -> C:\code\VS2022_code\linux面试\10_16洛谷速刷\x64\Debug\10_16洛谷速刷.exe
