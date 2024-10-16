@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\VS2022_code\\linux\u9762\u8BD5\\linux\u9762\u8BD5.c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{259D2646-9BA1-4624-9517-B6C61A7A4837}|linux\u9762\u8BD5.c\\linux\u9762\u8BD5.c.vcxproj|C:\\code\\VS2022_code\\linux\u9762\u8BD5\\linux\u9762\u8BD5.c\\linux\u9762\u8BD5.c\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{259D2646-9BA1-4624-9517-B6C61A7A4837}|linux\u9762\u8BD5.c\\linux\u9762\u8BD5.c.vcxproj|solutionrelative:linux\u9762\u8BD5.c\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "C:\\code\\VS2022_code\\linux\u9762\u8BD5\\linux\u9762\u8BD5.c\\linux\u9762\u8BD5.c\\test.c",
+              "RelativeDocumentMoniker": "linux\u9762\u8BD5.c\\test.c",
+              "ToolTip": "C:\\code\\VS2022_code\\linux\u9762\u8BD5\\linux\u9762\u8BD5.c\\linux\u9762\u8BD5.c\\test.c",
+              "RelativeToolTip": "linux\u9762\u8BD5.c\\test.c",
+              "ViewState": "AQIAAHABAAAAAAAAAAAAAHwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-16T09:30:59.968Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
