@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\VS2022_code\\3G\u9762\u8BD5.c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3CD596-0D66-4CED-AAA9-E5E2CFBB9762}|3G\u9762\u8BD5.c\\3G\u9762\u8BD5.c.vcxproj|C:\\code\\VS2022_code\\3G\u9762\u8BD5.c\\3G\u9762\u8BD5.c\\3G.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A3CD596-0D66-4CED-AAA9-E5E2CFBB9762}|3G\u9762\u8BD5.c\\3G\u9762\u8BD5.c.vcxproj|solutionrelative:3G\u9762\u8BD5.c\\3G.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stdio.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "RelativeToolTip": "..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ViewState": "AQIAABYEAAAAAAAAAADwvysEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-17T11:49:48.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3G.c",
+              "DocumentMoniker": "C:\\code\\VS2022_code\\3G\u9762\u8BD5.c\\3G\u9762\u8BD5.c\\3G.c",
+              "RelativeDocumentMoniker": "3G\u9762\u8BD5.c\\3G.c",
+              "ToolTip": "C:\\code\\VS2022_code\\3G\u9762\u8BD5.c\\3G\u9762\u8BD5.c\\3G.c*",
+              "RelativeToolTip": "3G\u9762\u8BD5.c\\3G.c*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-17T10:24:37.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
